@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elluc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elluc\\.nuget\\packages"
+    ]
+  }
+}
